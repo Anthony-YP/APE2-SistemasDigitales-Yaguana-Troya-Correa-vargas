@@ -1,4 +1,13 @@
-## Aprendizaje Práctico Experimental de Sistemas Digitales
+## Sistemas Digitales
+
+
+## Información académica
+
+- **Institución:** Universidad Nacional de Loja 
+- **Facultad:** FEIRNNR - Carrera de Computación.
+- **Asignatura:** Sistemas Digitales.
+- **Ciclo:** 5.
+- **Docente:** Ing. Luis Darío Sinche C.
 
 ## Integrantes
 
@@ -7,10 +16,4 @@
 - Darwin Correa
 - Derick Vargas
 
-## Información académica
 
-- **Institución:** Universidad Nacional de Loja 
-- **Facultad:** FEIRNNR - Carrera de Computación.
-- **Asignatura:** Sistemas Digitales.
-- **Ciclo:** 5.
-- **Docente:** Luis Darío Sinche C.
